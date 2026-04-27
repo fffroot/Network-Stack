@@ -1,7 +1,7 @@
 # 🌐 Network-Stack
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](.)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](./TODO.md)
 > 📦 Коллекция сетевых проектов, реализованных на разных языках программирования.  
 > От низкоуровневых сокетов и кастомных протоколов до высокоуровневых утилит и тестовых стендов.
 
